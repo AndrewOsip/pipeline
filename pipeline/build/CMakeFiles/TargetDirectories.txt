@@ -1,0 +1,7 @@
+/home/avosipov/Desktop/draft/build/CMakeFiles/install/strip.dir
+/home/avosipov/Desktop/draft/build/CMakeFiles/edit_cache.dir
+/home/avosipov/Desktop/draft/build/CMakeFiles/tst_app.dir
+/home/avosipov/Desktop/draft/build/CMakeFiles/rebuild_cache.dir
+/home/avosipov/Desktop/draft/build/CMakeFiles/list_install_components.dir
+/home/avosipov/Desktop/draft/build/CMakeFiles/install/local.dir
+/home/avosipov/Desktop/draft/build/CMakeFiles/install.dir

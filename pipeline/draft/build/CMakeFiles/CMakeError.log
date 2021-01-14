@@ -1,0 +1,148 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: ;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux;-m64;-march=core2;-mtune=core2;-msse3;-mfpmath=sse;;--sysroot=/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/bin/x86_64-mbient-linux/x86_64-mbient-linux-g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":

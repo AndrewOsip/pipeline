@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tst_app"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\configMechamism2\;CMake Files\..\..\configMechamism2\tunerapp\;CMake Files\..\..\configMechamism2\tunerapp\toolchain\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tst_app">
+				<Option output="/home/avosipov/Desktop/draft/build/tst_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux/usr/include/gstreamer-1.0"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux/usr/include/glib-2.0"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux/usr/lib/glib-2.0/include"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/lib/x86_64-mbient-linux/gcc/x86_64-mbient-linux/8.2.0/include"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/lib/x86_64-mbient-linux/gcc/x86_64-mbient-linux/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 tst_app"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tst_app/fast">
+				<Option output="/home/avosipov/Desktop/draft/build/tst_app" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux/usr/include/gstreamer-1.0"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux/usr/include/glib-2.0"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/core2-64-mbient-linux/usr/lib/glib-2.0/include"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/lib/x86_64-mbient-linux/gcc/x86_64-mbient-linux/8.2.0/include"/>
+					<Add directory="/opt/mbient-sdk-x86_64/1.0/sysroots/x86_64-mbientsdk-linux/usr/lib/x86_64-mbient-linux/gcc/x86_64-mbient-linux/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 tst_app/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/avosipov/Desktop/draft/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/avosipov/Desktop/draft/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/avosipov/Desktop/draft/src/AudioPipeline.cpp">
+			<Option target="tst_app"/>
+		</Unit>
+		<Unit filename="/home/avosipov/Desktop/draft/src/AudioPipeline.hpp">
+			<Option target="tst_app"/>
+		</Unit>
+		<Unit filename="/home/avosipov/Desktop/draft/src/main.cpp">
+			<Option target="tst_app"/>
+		</Unit>
+		<Unit filename="/home/avosipov/Desktop/draft/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/avosipov/Desktop/draft/src/../../configMechamism2/tunerapp/toolchain/MBient.cmake">
+			<Option virtualFolder="CMake Files\..\..\configMechamism2\tunerapp\toolchain\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
